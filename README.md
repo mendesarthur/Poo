@@ -1,2 +1,2 @@
 # POO: 
-# Trabalhando com Programação orientada a objetos com javascript
+# Trabalhando com Programação orientada a objetos em javascript
